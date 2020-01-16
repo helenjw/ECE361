@@ -1,16 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
- * File:   packet.h
- * Author: jiang256
- *
- * Created on October 14, 2019, 1:18 PM
- */
-
 #ifndef PACKET_H
 #define PACKET_H
 
